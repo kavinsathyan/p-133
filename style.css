@@ -1,0 +1,41 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading
+{
+font-size: 40px;
+width: 100%;
+margin: 0px;
+height: 10%;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+canvas
+{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+}
+
+.btn 
+{
+    width: 250px;
+    border-radius: 20px;
+    font-size: 20px;
+    border: 5px solid darkorchid;
+    box-shadow: 10px 10px 10px gold;
+}
+
+.btn:hover {
+    background-color: goldenrod;
+    color: royalblue;
+    box-shadow: 10px 10px 10px purple;
+  }
+
+
